@@ -1,0 +1,6 @@
+E:\Git projects\HighMathLib\HighMathLib\HighMath\bin\Debug\HighMath.dll
+E:\Git projects\HighMathLib\HighMathLib\HighMath\bin\Debug\HighMath.pdb
+E:\Git projects\HighMathLib\HighMathLib\HighMath\obj\Debug\HighMath.csprojAssemblyReference.cache
+E:\Git projects\HighMathLib\HighMathLib\HighMath\obj\Debug\HighMath.csproj.CoreCompileInputs.cache
+E:\Git projects\HighMathLib\HighMathLib\HighMath\obj\Debug\HighMath.dll
+E:\Git projects\HighMathLib\HighMathLib\HighMath\obj\Debug\HighMath.pdb
